@@ -51,7 +51,7 @@ node server.js
 To manage inventory organizing by categories, tags, and products. Update inventory by adding, modifying, or deleting categories, tags, and products.
 
 ### Screencastify Demo
-
+https://drive.google.com/file/d/1JJuXVGqj3mkHWhAcCRrmoJBK78L8MXz9/view?usp=sharing
 
 
 ## Credits
