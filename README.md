@@ -83,6 +83,7 @@ Screencastify: Create, Share, and Assess: https://www.youtube.com/watch?v=CX-Xvn
 
 Video Submission Guide: https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
 
+Fantastic Umbrella for starter code: https://github.com/coding-boot-camp/fantastic-umbrella
 
 ## License
 
