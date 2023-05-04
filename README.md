@@ -43,7 +43,7 @@ This application uses [Express](https://www.npmjs.com/package/express/v/4.16.4) 
 The application will be invoked by using the following command:
 
 ```
-node server.js
+npm start
 ```
 
 ## Usage
